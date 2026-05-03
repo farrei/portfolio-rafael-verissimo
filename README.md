@@ -16,9 +16,9 @@ Este projeto apresenta Rafael Verissimo como estudante de Análise e Desenvolvim
 
 ## Projetos destacados
 
+- Aurora Lab
 - Fila do Posto
 - FlexCalc Brasil
-- Espaço para próximo projeto acadêmico
 
 ## Tecnologias usadas
 
@@ -30,7 +30,7 @@ Este projeto apresenta Rafael Verissimo como estudante de Análise e Desenvolvim
 
 ## O que editar antes de publicar
 
-No arquivo `index.html`, edite apenas os links dos projetos, caso os nomes dos repositórios mudem.
+No arquivo `index.html`, edite apenas os links dos projetos, caso os nomes dos repositórios mudem. O Aurora Lab já foi incluído como projeto principal.
 
 ## Como publicar no GitHub Pages
 
